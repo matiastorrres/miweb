@@ -1,2 +1,2 @@
 let letra ="chauuu"
-let error ="pepe"
+let error ="pepe";
